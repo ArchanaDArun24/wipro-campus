@@ -1,0 +1,2 @@
+# wipro-campus
+In a online math course the students are given a list of N number .The students need to recognize the number within a given range of a list, for example between the range L and R where L is the start index and R is the end index of the list .After recognizing the number , the students have to sum up all the numbers within the given range inclusive of L and R. Write an algorithm to find the sum of all the number within the given range ,inclusive of L and R.
